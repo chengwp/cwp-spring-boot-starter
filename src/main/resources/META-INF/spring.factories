@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.cwp.CwpService
+com.cwp.CwpServiceAutoConfiguration
